@@ -2,7 +2,6 @@
 WILLIAM HUBBS
 
 https://github.com/williamh | https://linkedin.com/in/williamhubbs
-w.d.hubbs@gmail.com
 
 
 INFORMATION TECHNOLOGY INDUSTRY FOCUS
