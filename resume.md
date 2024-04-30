@@ -183,7 +183,7 @@ PyBugz is a command line interface to the BugZilla bug tracking system which is 
 
 ### Software Tools
 
-- Docker: GitLab Runners
+- Docker: GitLab Runners, built and modified containers for gitlab ci/cd.
 - GIT, Revision Control System (RCS), Concurrent Versions System (CVS), Subversion, Bazaar
 - Make, Meson, Autotools
 - UNIX Shells: BASH, SH, CSH, AWK, SED,
