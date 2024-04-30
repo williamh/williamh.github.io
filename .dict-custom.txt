@@ -13,7 +13,7 @@ config
 convexos
 csh
 denton
-ebuild
+ebuilds
 emass
 espeak
 espeakup
