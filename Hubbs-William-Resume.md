@@ -170,16 +170,16 @@ PyBugz is a command line interface to the BugZilla bug tracking system which is 
 
 ### Programming Languages
 
-- Go: deprecated tool to assist in writing Gentoo Linux ebuilds
+- Go: tool to assist in writing Gentoo Linux ebuilds for go programs (now deprecated)
 - C: espeakup, OpenRC, speakup
 - C++: Emass VolServ software
 - BASH: Scripts, Gitlab Pipelines, Gentoo Linux ebuilds
 - Perl: Emass Software Configuration Management tools
 - Python: PyBugz, PyZilla
-- Pascal:
-- Fortran:
-- IBM 370 & 8086 Assembly Language:
-- BASIC:
+- Pascal: academic use only
+- Fortran: "
+- IBM 370 & 8086 Assembly Language: "
+- BASIC: hobby programming
 
 ### Software Tools
 
