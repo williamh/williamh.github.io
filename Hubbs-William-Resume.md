@@ -38,6 +38,32 @@ Additional strengths include:
 - Content Development
 - Technical Writing
 
+## TECHNICAL EXPERTISE
+
+### Programming Languages
+
+- Go: tool to assist in writing Gentoo Linux ebuilds for go programs (now deprecated)
+- C: espeakup, OpenRC, speakup
+- C++: Emass VolServ software
+- BASH: Scripts, Gitlab Pipelines, Gentoo Linux ebuilds
+- Perl: Emass Software Configuration Management tools
+- Python: PyBugz, PyZilla
+- Pascal: academic use only
+- Fortran: "
+- IBM 370 & 8086 Assembly Language: "
+- BASIC: hobby programming
+
+### Software Tools
+
+- Docker: GitLab Runners, built and modified containers for gitlab Continuous Integration/continuous delivery.
+- GIT, Revision Control System (RCS), Concurrent Versions System (CVS), Subversion, Bazaar
+- Make, Meson, Autotools
+- UNIX Shells: BASH, SH, CSH, AWK, SED,
+- Office Tools: VIM, Microsoft Office, Google Office
+- Batch Programming/Windows Scripting: Windows NT/XP, AutoIT
+- Operating Systems: Linux, UNIX and UNIX variants (SunOS, Solaris, IRIX, Unicos, ConvexOS, AIX), Windows, Vax/VMS, MUSIC
+- Database Systems: R:Base 5000 Relational Database
+
 ## PROFESSIONAL EXPERIENCE
 
 ### PLAYSTATION, Austin, TX
@@ -165,29 +191,3 @@ PyBugz is a command line interface to the BugZilla bug tracking system which is 
 - Associate of Arts, General Studies,
 - Odessa, TX (1988)
 - Cumulative GPA: 3.8/4.0
-
-## TECHNICAL EXPERTISE
-
-### Programming Languages
-
-- Go: tool to assist in writing Gentoo Linux ebuilds for go programs (now deprecated)
-- C: espeakup, OpenRC, speakup
-- C++: Emass VolServ software
-- BASH: Scripts, Gitlab Pipelines, Gentoo Linux ebuilds
-- Perl: Emass Software Configuration Management tools
-- Python: PyBugz, PyZilla
-- Pascal: academic use only
-- Fortran: "
-- IBM 370 & 8086 Assembly Language: "
-- BASIC: hobby programming
-
-### Software Tools
-
-- Docker: GitLab Runners, built and modified containers for gitlab Continuous Integration/continuous delivery.
-- GIT, Revision Control System (RCS), Concurrent Versions System (CVS), Subversion, Bazaar
-- Make, Meson, Autotools
-- UNIX Shells: BASH, SH, CSH, AWK, SED,
-- Office Tools: VIM, Microsoft Office, Google Office
-- Batch Programming/Windows Scripting: Windows NT/XP, AutoIT
-- Operating Systems: Linux, UNIX and UNIX variants (SunOS, Solaris, IRIX, Unicos, ConvexOS, AIX), Windows, Vax/VMS, MUSIC
-- Database Systems: R:Base 5000 Relational Database
