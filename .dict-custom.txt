@@ -23,6 +23,7 @@ gh
 github
 githubusercontent
 gitlab
+gmail
 http
 https
 hubbs
