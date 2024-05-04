@@ -4,19 +4,13 @@
 
 ## INFORMATION TECHNOLOGY INDUSTRY FOCUS
 
-- Complex Programming
-- Supervisory Client Support
-- Application Development
-
 - Highly analytical and focused release engineer with expert proficiency in
   multiple computer programming languages and open source development.
 - Expert understanding of design, analysis, coding, testing, implementation and
   maintenance processing cycles of software application development.
-- Applied expertise to write code to automate continuous integration for
-  multiple projects on the self-hosted GitLab instance.
 - Regarded for the ability to competently review and analyze data, and
   communicate information in clear and easy-to-understand language.
-- Maintain an awareness of new trends in the information technology services
+- Maintains an awareness of new trends in the information technology services
   industry by openly exchanging knowledge with peers across the organization.
 - Articulate presenter with strong customer interpersonal communication skills.
 
@@ -30,6 +24,7 @@
 - Networking Systems Configuration
 - Content Development
 - Technical Writing
+- Supervisory Client Support
 
 ## TECHNICAL EXPERTISE
 
