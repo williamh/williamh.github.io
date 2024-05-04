@@ -1,6 +1,6 @@
 # WILLIAM HUBBS
 
-[Github](https://github.com/williamh) | [linkedin](https://linkedin.com/in/williamhubbs) | w.d.hubbs@gmail.com
+[Github](https://github.com/williamh) | [linkedin](https://linkedin.com/in/williamhubbs) | [E-mail](w.d.hubbs@gmail.com)
 
 ## INFORMATION TECHNOLOGY INDUSTRY FOCUS
 
