@@ -1,33 +1,30 @@
 # WILLIAM HUBBS
 
----------------
-                            https://github.com/williamh | https://linkedin.com/in/williamhubbs
----------------
+------------------------------------
+https://github.com/williamh
+https://linkedin.com/in/williamhubbs
+w.d.hubbs@gmail.com
+------------------------------------
 
 ## INFORMATION TECHNOLOGY INDUSTRY FOCUS
 
-### Complex Programming | Supervisory Client Support | Application Development
+- Complex Programming
+- Supervisory Client Support
+- Application Development
 
-Highly analytical and focused release engineer with expert proficiency in
-multiple computer programming languages and open source development.
+- Highly analytical and focused release engineer with expert proficiency in
+  multiple computer programming languages and open source development.
+- Expert understanding of design, analysis, coding, testing, implementation and
+  maintenance processing cycles of software application development.
+- Applied expertise to write code to automate continuous integration for
+  multiple projects on the self-hosted GitLab instance.
+- Regarded for the ability to competently review and analyze data, and
+  communicate information in clear and easy-to-understand language.
+- Maintain an awareness of new trends in the information technology services
+  industry by openly exchanging knowledge with peers across the organization.
+- Articulate presenter with strong customer interpersonal communication skills.
 
-Expert understanding of design, analysis, coding, testing, implementation and
-maintenance processing cycles of software application development.
-Maintained self-hosted instances of GitLab, GitHub and Sourcegraph.
-
-Applied expertise to write code to automate continuous integration for
-multiple projects on the self-hosted GitLab instance.
-
-Regarded for the ability to competently review and analyze data, and communicate
-information in clear and easy-to-understand language.
-
-Maintain an awareness of new trends in the information technology services
-industry by openly exchanging knowledge with peers across the organization.
-
-Articulate presenter with strong customer interpersonal communication skills.
-Additional strengths include:
-
-### Overall Skills
+## Overall Skills
 
 - Software Engineering & Development
 - Team Collaboration
@@ -80,8 +77,8 @@ Additional strengths include:
 
 ***Webmaster and Web Trainer (2014)***
 
-Maintained the business's web site and trained clients in using WordPress to
-build their own web sites and blogs.
+- Maintained the business's web site.
+- Trained clients in using WordPress to build their own web sites and blogs.
 
 ### AFFILIATED COMPUTER SERVICES, INC. (ACS), Dallas, TX
 
@@ -89,25 +86,20 @@ build their own web sites and blogs.
 ***Help Desk Technician, Level II***
 ***Quality Assurance Analyst (1995-2009)***
 
-Expertly delivered second-level supervisory support to a twenty-four hour
-help desk team responsible for an ACS-proprietary inventory management and
-point-of-sale software system designed for convenience store clients such as
-*Arco* and *7-11, Inc.*
-
-Provided similar service to the *United States Army* and *Air Force Exchange
-Service* (AAFES).
-
-Provided quality control expertise to evaluate help desk technician customer
-service performance with oral and written feedback.
-
-Accountable to senior management for ensuring total technician compliance to
-company communication standards and regulations.
-
-Re-engineered critical store performance diagnostic tool using *AutoIt* Windows
-scripting language software to automate information retrieval and data analysis
-that increased client support technician productivity by reducing call times by
-half.
-
+- Expertly delivered second-level supervisory support to a twenty-four hour
+  help desk team responsible for an ACS-proprietary inventory management and
+  point-of-sale software system designed for convenience store clients such as
+  *Arco* and *7-11, Inc.*
+- Provided similar service to the *United States Army* and *Air Force Exchange
+  Service* (AAFES).
+- Provided quality control expertise to evaluate help desk technician customer
+  service performance with oral and written feedback.
+  Accountable to senior management for ensuring total technician compliance to
+  company communication standards and regulations.
+- Re-engineered critical store performance diagnostic tool using *AutoIt* Windows
+  scripting language software to automate information retrieval and data analysis
+  that increased client support technician productivity by reducing call times by
+  half.
 - Maintained diagnostic tool mentioned above in Windows batch file language utilized by help desk team to troubleshoot client software issues.
 - Efforts led to reduced resolution time and significantly minimized client expenses.
 - Acted as a liaison between help desk and development teams.
