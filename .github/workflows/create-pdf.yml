@@ -1,3 +1,4 @@
+---
 name: Create PDF File
 
 on:
@@ -11,7 +12,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v3 # this checks out the repo in the ubuntu container
+        uses: actions/checkout@v3  # this checks out the repo in the ubuntu container
       - name: "Create a folder called output"
         run: |
           mkdir output
@@ -32,8 +33,9 @@ jobs:
       - name: "Convert HTML to PDF "
         run: "wkhtmltopdf --enable-local-file-access output/Hubbs-William-Resume.html output/Hubbs-William-Resume.pdf"
       # run: |
-      #     /usr/bin/pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
+      #     pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
+
       - uses: actions/upload-artifact@master
-        with: # basically this will put resume.md, resume.html, resume.pdf and resume-stylesheet.css in a zip file.
+        with:  # basically this will put resume.md, resume.html, resume.pdf and resume-stylesheet.css in a zip file.
           name: Hubbs-William-Resume
           path: output
