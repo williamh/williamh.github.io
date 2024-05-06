@@ -1,11 +1,11 @@
 ---
 name: Create PDF File
 
-on:
-  workflow_dispatch:
+on:  # yamllint disable-line rule:truthy
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   convert_via_pandoc:
