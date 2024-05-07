@@ -1,17 +1,3 @@
----
-margin-left: 2cm
-margin-right: 2cm
-margin-top: 1cm
-margin-bottom: 2cm
-keywords:
-  - 'ci/cd'
-  - 'Github'
-  - 'Gitlab'
-  - 'linux'
-author:
-  - William Hubbs
-subject: 'Subject'
----
 # WILLIAM HUBBS
 
 [Github](https://github.com/williamh) | [linkedin](https://linkedin.com/in/williamhubbs) | [E-mail](w.d.hubbs@gmail.com)
