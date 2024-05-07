@@ -1,3 +1,19 @@
+---
+margin-left: 2cm
+margin-right: 2cm
+margin-top: 1cm
+margin-bottom: 2cm
+title: My Resume in Markdown
+description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+keywords:
+  - 'ci/cd'
+  - 'Github'
+  - 'Gitlab'
+  - 'linux'
+author:
+- William Hubbs
+subject: 'Subject'
+---
 # WILLIAM HUBBS
 
 [Github](https://github.com/williamh) | [linkedin](https://linkedin.com/in/williamhubbs) | [E-mail](w.d.hubbs@gmail.com)
@@ -45,6 +61,7 @@
 
 - Docker: GitLab Runners, built and modified containers for gitlab Continuous Integration/continuous delivery.
 - GIT, Revision Control System (RCS), Concurrent Versions System (CVS), Subversion, Bazaar
+- github, gitlab
 - Make, Meson, Autotools
 - UNIX Shells: BASH, SH, CSH, AWK, SED,
 - Office Tools: VIM, Microsoft Office, Google Office
