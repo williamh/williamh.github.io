@@ -7,6 +7,8 @@ autoit
 autotools
 awk
 bugzilla
+cd
+ci
 cli
 codeowners
 config
