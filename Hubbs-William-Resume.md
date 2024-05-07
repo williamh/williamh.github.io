@@ -3,8 +3,8 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: My Resume in Markdown
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+title: 'My Resume in Markdown'
+description-meta: 'This is the meta description for the HTML file, and one day the PDF file.'
 keywords:
   - 'ci/cd'
   - 'Github'
