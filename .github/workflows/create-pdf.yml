@@ -5,6 +5,7 @@ on:  # yamllint disable-line rule:truthy
   push:
     branches:
       - main
+      - develop
   workflow_dispatch:
 
 jobs:
@@ -12,7 +13,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v3  # this checks out the repo in the ubuntu container
+        uses: actions/checkout@v4  # this checks out the repo in the ubuntu container
       - name: "Create a folder called output"
         run: |
           mkdir output
@@ -31,7 +32,8 @@ jobs:
           pandoc Hubbs-William-Resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/Hubbs-William-Resume.html
 
       - name: "Convert HTML to PDF "
-        run: "wkhtmltopdf --enable-local-file-access output/Hubbs-William-Resume.html output/Hubbs-William-Resume.pdf"
+        run: |
+            wkhtmltopdf --enable-local-file-access output/Hubbs-William-Resume.html output/Hubbs-William-Resume.pdf
       # run: |
       #     pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
 
