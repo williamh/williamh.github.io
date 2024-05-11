@@ -17,7 +17,6 @@ jobs:
       - name: "Create a folder called output"
         run: |
           mkdir output
-          cp resume-stylesheet.css output
           cp Hubbs-William-Resume.md output
       # Downloading the binaries directly, because they are newer and work better, than the ones that come with Ubuntu latest.
       - name: "Install pandoc and wkhtmltopdf"
@@ -29,7 +28,7 @@ jobs:
 
       - name: "Convert MD to HTML"
         run: |
-          pandoc Hubbs-William-Resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/Hubbs-William-Resume.html
+          pandoc Hubbs-William-Resume.md -f markdown -t html -s -o output/Hubbs-William-Resume.html
 
       - name: "Convert HTML to PDF "
         run: |
