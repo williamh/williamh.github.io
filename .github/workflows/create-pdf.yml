@@ -28,7 +28,12 @@ jobs:
 
       - name: "Convert MD to HTML"
         run: |
-          pandoc Hubbs-William-Resume.md -f markdown -t html -s -o output/Hubbs-William-Resume.html
+          # https://www.linode.com/docs/guides/how-to-use-python-markdown-to-convert-markdown-to-html/
+          if ! pip freeze | grep -q markdown; then
+            pip install --upgrade markdown
+          fi
+          python ./md2html.py
+          mv index.html output/Hubbs-William-Resume.html
 
       - name: "Convert HTML to PDF "
         run: |
