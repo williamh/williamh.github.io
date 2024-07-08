@@ -53,7 +53,7 @@ Software Tools:
 
 # PROFESSIONAL EXPERIENCE
 
-***Playstation,*** Austin, TX ***2015-2024***
+***PlayStation,*** Austin, TX ***2015-2024***
 
 ***Release Engineer***
 
@@ -84,12 +84,12 @@ Software Tools:
 
 # EDUCATION
 
-*** UNIVERSITY OF NORTH TEXAS, Denton, TX ***
+***UNIVERSITY OF NORTH TEXAS,*** Denton, TX
 
 Bachelor of Science, Computer Science, Cum Laude
 Minor, Rehabilitation Studies,
 
-***ODESSA COLLEGE, Odessa, TX ***
+***ODESSA COLLEGE,*** Odessa, TX
 
 Associate of Arts, General Studies
 
