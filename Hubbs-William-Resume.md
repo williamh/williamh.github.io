@@ -2,7 +2,7 @@
 
 [E-mail](w.d.hubbs@gmail.com) | [Github](https://github.com/williamh) | [linkedin](https://linkedin.com/in/williamhubbs)
 
-# RELEASE ENGINEER
+## RELEASE ENGINEER
 
 Highly analytical and focused release engineer with expert proficiency in
 multiple computer programming languages and open source development. Expert
@@ -14,7 +14,7 @@ trends in the information technology services industry by openly exchanging
 knowledge with peers across the organization. Articulate presenter with
 strong customer interpersonal communication skills.
 
-# Overall Skills
+## Overall Skills
 
 Software Engineering & Development | Team Collaboration | Leadership Skills
 
@@ -24,7 +24,7 @@ Networking Systems Configuration | Content Development | Technical Writing
 
 Supervisory Client Support
 
-# TECHNICAL EXPERTISE
+## TECHNICAL EXPERTISE
 
 Programming Languages:
 
@@ -51,7 +51,7 @@ Software Tools:
 - Operating Systems: Linux, UNIX and UNIX variants (SunOS, Solaris, IRIX, Unicos, ConvexOS, AIX), Windows, Vax/VMS, MUSIC
 - Database Systems: R:Base 5000 Relational Database
 
-# PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 ***PlayStation,*** Austin, TX ***2015-2024***
 
@@ -70,7 +70,7 @@ Software Tools:
 - Maintained the business's web site.
 - Trained clients in using WordPress to build their own web sites and blogs.
 
-# Additional Relevant Experience
+## Additional Relevant Experience
 
 ***AFFILIATED COMPUTER SERVICES, INC. (ACS),*** Dallas, TX
 
@@ -82,7 +82,7 @@ Software Tools:
 
 ***Senior Associate Software Engineer***
 
-# EDUCATION
+## EDUCATION
 
 ***UNIVERSITY OF NORTH TEXAS,*** Denton, TX
 
@@ -93,11 +93,11 @@ Minor, Rehabilitation Studies,
 
 Associate of Arts, General Studies
 
-# OPEN-SOURCE DEVELOPMENT
+## OPEN-SOURCE DEVELOPMENT
 
 Engage in open-source development programming projects for personal enrichment.
 
-*** [GENTOO LINUX](https://www.gentoo.org/) ***
+***[GENTOO LINUX](https://www.gentoo.org/)***
 
 ***Accessibility Project (2004-present)***
 
@@ -106,7 +106,7 @@ Fix software bugs and report them to appropriate authors, recommending patches w
 Coordinate with release engineering team to make sure installation media are accessible.
 Support disabled users by assisting them with installing Gentoo Linux and recommending settings which will make it accessible.
 
-*** [SPEAKUP](https://linux-speakup.org/) ***
+***[SPEAKUP](https://linux-speakup.org/)***
 
 ***Developer (2008-present)***
 
@@ -118,7 +118,7 @@ Updated the code and installation script so that Speakup can be installed into m
 Update installation documentation.
 Fix software bugs reported by users.
 
-*** [ESPEAKUP](https://www.github.com/linux-speakup/espeakup) ***
+***[ESPEAKUP](https://www.github.com/linux-speakup/espeakup)***
 
 ***Developer, Main Program Author (2008-present)***
 
@@ -128,7 +128,7 @@ Primarily written to be a small light weight connector for installation media an
 Maintain and develop the code in C and author documentation.
 Accept patches from users and correct code errors.
 
-*** [PYBUGZ](https://www.github.com/williamh/pybugz) ***
+***[PYBUGZ](https://www.github.com/williamh/pybugz)***
 
 ***Developer (2007-present)***
 
