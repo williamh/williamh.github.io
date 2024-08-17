@@ -22,7 +22,7 @@ Intricate Coding/Programming | Interpersonal Communication Abilities
 
 Networking Systems Configuration | Content Development | Technical Writing
 
-Supervisory Client Support
+Supervisory Client Support | Remote Work
 
 ## TECHNICAL EXPERTISE
 
@@ -41,7 +41,7 @@ Programming Languages:
 
 Software Tools:
 
-- Docker: GitLab Runners, built and modified containers for gitlab Continuous Integration/continuous delivery.
+- Docker: GitLab Runners, built and modified containers for gitlab CI/CD.
 - GIT, Revision Control System (RCS), Concurrent Versions System (CVS), Subversion, Bazaar
 - github, gitlab
 - Make, Meson, Autotools
@@ -58,7 +58,8 @@ Software Tools:
 ***Release Engineer***
 
 - Maintained self-hosted instances of GitHub Enterprise, GitLab Enterprise Edition and Sourcegraph tools which allowed the company to use the latest ci/cd tools and easily search all of our code base.
-- Developed code to automate full Continuous Integration processing for multiple projects in multiple programming languages on GitLab which standardized the work flows used by all of our engineers.
+- Developed code to automate full Continuous Integration processing for multiple projects in multiple programming languages on GitLab which
+  standardized the work flows used by all of our engineers.
 - Supported teams migrating their projects from GitHub to GitLab so they could take advantage of our standard work flows.
 - Supported teams by adding and debugging functionality as requested to the Continuous Integration system.
 - Expertly advised teams on ways to make the user interfaces of their products more accessible for people with disabilities.
@@ -103,8 +104,10 @@ Engage in open-source development programming projects for personal enrichment.
 
 Maintain specialized software packages for Gentoo Linux making it more accessible to users with physical disabilities.
 Fix software bugs and report them to appropriate authors, recommending patches where possible.
-Coordinate with release engineering team to make sure installation media are accessible.
-Support disabled users by assisting them with installing Gentoo Linux and recommending settings which will make it accessible.
+Coordinate with release engineering team to make sure installation
+media are accessible.
+Support disabled users by assisting them with installing Gentoo Linux and
+recommending settings which will make it accessible.
 
 ***[SPEAKUP](https://linux-speakup.org/)***
 
