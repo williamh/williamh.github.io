@@ -2,9 +2,9 @@
 
 [E-mail](w.d.hubbs@gmail.com) | [Github](https://github.com/williamh) | [linkedin](https://linkedin.com/in/williamhubbs)
 
-## RELEASE ENGINEER
+## Platform Engineer
 
-Highly analytical and focused release engineer with expert proficiency in
+Highly analytical and focused Platform engineer with expert proficiency in
 multiple computer programming languages and open source development. Expert
 understanding of design, analysis, coding, testing, implementation and
 maintenance processing cycles of software application development.  Regarded for
